@@ -1,0 +1,10 @@
+{
+    "application_name": "Google Drive API Demo",
+    "credentials_path": "F:/webdev/htdocs/google-drive/config/client_secret.json",
+    "scopes": [
+        "https://www.googleapis.com/auth/drive",
+        "email",
+        "profile"
+    ],
+    "access_type": "offline"
+}
